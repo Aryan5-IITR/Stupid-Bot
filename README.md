@@ -1,4 +1,6 @@
-STUPID BOT
+STUPID BOT:
+
+
 It a simple discord bot which takes commands with prefix '$' coded using discord.py
 In addition to some simple commands, it has commands of three categories which are Wikipedia, Movies and Music.
 The info regarding all the commands can be fetched using '$help' command.
